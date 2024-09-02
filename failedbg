@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My webpage</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <style>
+        body {
+            background-image: url('favicon.png'); /* Replace with the path to your background image /
+            background-repeat: repeat; / This will repeat the image both horizontally and vertically */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Anthpect's personal website</h1>
+<p>Welcome to my personal page!</p>
+<p>I am addicted to science, computer science, and GNU/Linux. This is all what you can know about me.</p>
+<p>Image below is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></p>
+<img src="linux.jpg" alt="Licensed under Creative Commons Attribution 4.0 International License" width="460" height="345">
+<p>This website is under construction though, that is why it's incomplete.</p>
+<p>I host this website on GitHub, and got this free domain from NoIP.</p>
+<p>By the way, thanks for visiting!</p>
+
+<img src="ab.gif" alt="Another image">
+<img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons Attribution 4.0" width="88" height="31">
+
+</body>
+</html>
